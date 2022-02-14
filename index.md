@@ -37,7 +37,7 @@ Hey, I am an iOS Developer that's been programming for 3 years and have been dev
 
 Here are some applications that I've worked on so far
 
-![]
+![Simulator Screen Shot - iPhone 13 - 2022-02-14 at 08 24 58](https://user-images.githubusercontent.com/54481133/153805155-e8152895-7118-4552-be6a-edb68a9f766f.png)]
 
 
 ### Contact me
