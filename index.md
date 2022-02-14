@@ -39,7 +39,7 @@ Here are some applications that I've worked on so far
 
 
 
-![Simulator Screen Shot - iPhone 13 - 2022-02-14 at 08 27 47 copy](https://user-images.githubusercontent.com/54481133/153805510-00db4079-3f89-4508-adc4-a05ea916b4be.png)
+- ![Simulator Screen Shot - iPhone 13 - 2022-02-14 at 08 27 47 copy](https://user-images.githubusercontent.com/54481133/153805510-00db4079-3f89-4508-adc4-a05ea916b4be.png)
 
 
 
