@@ -2,12 +2,16 @@
 
 Hey, I am an iOS Developer that's been programming for 3 years and have been developing iOS apps for 1 year. I love to code in Swift and SwiftUI because I find the language and its' syntax to be elegant and beautiful.
 
+
+
 ### I know how to code in the following:
 1. Swift
 2. Python
 3. Flutter
 4. Rust
 5. Node.js
+
+
 
 ### I have experience with the following Apple frameworks including many more:
 - SwiftUI
@@ -19,33 +23,21 @@ Hey, I am an iOS Developer that's been programming for 3 years and have been dev
 - HealthKit
 - VisionKit
 
+
+
 ### I can handle:
 - UI designing or copying designs in Figma
 - Third party libraries such as Realm, Firebase or Mapbox
 - Backend/API integration with URLSession and async await
 - Local storage with Core Data
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Applications
 
-# Header 1
-## Header 2
-### Header 3
+Here are some applications that I've worked on so far
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+![]
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
