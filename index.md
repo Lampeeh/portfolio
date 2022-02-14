@@ -1,8 +1,28 @@
-## Welcome to GitHub Pages
+## This is Lampeh's Portfolio
 
-You can use the [editor on GitHub](https://github.com/Lampeeh/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hey, I am an iOS Developer that's been programming for 3 years and have been developing iOS apps for 1 year. I love to code in Swift and SwiftUI because I find the language and its' syntax to be elegant and beautiful.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### I know how to code in the following:
+1. Swift
+2. Python
+3. Flutter
+4. Rust
+5. Node.js
+
+### I have experience with the following Apple frameworks including many more:
+- SwiftUI
+- Core Data, CloudKit
+- WidgetKit
+- Messages
+- GameKit
+- CoreMotion
+- HealthKit
+- VisionKit
+
+### I can handle:
+- Third party libraries such as Realm, Firebase or Mapbox
+- Backend/API integration with URLSession and async await
+- Local storage with Core Data
 
 ### Markdown
 
