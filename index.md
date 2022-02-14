@@ -22,6 +22,7 @@ Hey, I am an iOS Developer that's been programming for 3 years and have been dev
 - CoreMotion
 - HealthKit
 - VisionKit
+- SpriteKit, SceneKit
 
 
 
@@ -35,12 +36,14 @@ Hey, I am an iOS Developer that's been programming for 3 years and have been dev
 
 # Applications
 
-Here are some applications that I've worked on so far
+## Here are some applications that I've worked on so far
 
 
 a Workout app, is fully built in SwiftUI; uses HealthKit, CoreMotion and CoreHaptics.
 
 ![Simulator Screen Shot - iPhone 13 - 2022-02-14 at 08 27 47 copy](https://user-images.githubusercontent.com/54481133/153805510-00db4079-3f89-4508-adc4-a05ea916b4be.png)
+
+
 
 
 
