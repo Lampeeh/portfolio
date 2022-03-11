@@ -40,7 +40,7 @@ Hey, I am an iOS Developer that's been programming for 3 years and have been dev
 A workout app that automatically detects your exercises through the AirPods motion API.
 <a href="https://apple.co/35ps77B">See in App Store</a>
 
-![unknown_15](https://user-images.githubusercontent.com/54481133/157961212-f57a12bc-4124-4009-a6eb-15d80912f1cf.png)
+![image](https://user-images.githubusercontent.com/54481133/157961765-bf3b18c8-86ce-40b8-a85c-e31c61a15ed3.png)
 
 ### Contact me
 
