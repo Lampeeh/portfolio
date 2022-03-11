@@ -27,6 +27,7 @@ Hey, I am an iOS Developer that's been programming for 3 years and I have been d
 
 
 ### I can handle:
+- Creating SwiftUI apps in a short time
 - UI designing or copying designs in Figma
 - Third party libraries such as Realm, Firebase or Mapbox
 - Backend/API integration with URLSession and async await
