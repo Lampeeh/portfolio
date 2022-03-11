@@ -39,9 +39,7 @@ Hey, I am an iOS Developer that's been programming for 3 years and have been dev
 ## Air Workouts
 A workout app that automatically detects your exercises through the AirPods motion API.
 
-<a href="https://apple.co/35ps77B">Research</a>
-
-https://apple.co/35ps77B
+<a href="https://apple.co/35ps77B">See in App Store</a>
 
 ### Contact me
 
