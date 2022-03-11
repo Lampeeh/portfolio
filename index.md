@@ -1,4 +1,4 @@
-## This is Lampeh's Portfolio
+## Lampeh's Portfolio
 
 Hey, I am an iOS Developer that's been programming for 3 years and I have been developing iOS apps for 1 year. I love to code in Swift and SwiftUI because I find the language and its' syntax to be elegant and beautiful.
 
