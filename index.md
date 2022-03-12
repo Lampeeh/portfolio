@@ -47,4 +47,5 @@ A workout app that automatically detects your exercises through the AirPods moti
 ### Contact me
 
 You can contact me through my email
-lampeh111@gmail.com
+![lampeh111@gmail.com](lampeh111@gmail.com)
+
