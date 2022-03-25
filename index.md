@@ -1,16 +1,13 @@
 ## Lampeh's Portfolio
 
-Hey, I am an iOS Developer that's been programming for 3 years and I have been developing iOS apps for 1 year. I love to code in Swift and SwiftUI because I find the language and its' syntax to be elegant and beautiful.
-
+Hey, I am an iOS Developer that's been programming for 3 years and I have been developing iOS apps for 1 year. I code in Swift and SwiftUI.
 
 
 ### I know how to code in the following:
 1. Swift
 2. Python
 3. Flutter
-4. Rust
-5. Node.js
-
+4. Node.js
 
 
 ### I have experience with the following Apple frameworks including many more:
